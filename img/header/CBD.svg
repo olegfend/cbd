@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="25" viewBox="0 0 45 25">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 30px;
+        fill: #fff;
+        font-family: Oswald;
+      }
+    </style>
+  </defs>
+  <text id="CBD" class="cls-1" x="-0.5" y="25.001">CBD</text>
+</svg>
